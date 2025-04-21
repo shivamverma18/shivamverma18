@@ -7,11 +7,11 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="[https://raw.githubusercontent.com/jaydeep-yadav/microsoft-fabric-icon/main/fabric.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.fabric.microsoft.com%2F&psig=AOvVaw1LbUQAr0O8oA1T3k8TXB75&ust=1745356780014000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiruOmG6owDFQAAAAAdAAAAABAZ)" alt="Microsoft Fabric" width="48" height="48"/>
+  <img src="https://github.com/shivamverma18/shivamverma18/raw/main/microsoft_fabric_logo.png" alt="Microsoft Fabric" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
 </p>
 
 ## 🏆 GitHub Trophies
