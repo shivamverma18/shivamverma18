@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://seeklogo.com/images/M/microsoft-fabric-logo-3534B6CFA9-seeklogo.com.png" alt="Microsoft Fabric" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Microsoft_Fabric_Logo.svg" alt="Microsoft Fabric" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
