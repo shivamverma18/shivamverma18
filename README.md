@@ -1,15 +1,14 @@
 ## 🎥 A Glimpse into My Data Analyst Journey
 <p align="center">
-  <img src="https://github.com/shivamverma18/shivamverma18/raw/main/data_analyst_intro.gif" alt="Data Analyst Intro" width="480"/>
+  <img src="C:\Users\win10\Downloads.gif" alt="Data Analyst Intro" width="480"/>   
 </p>
 
-## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
   <img src="https://img.icons8.com/ios-filled/50/1A1A1A/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-microsoft-fabric-is-a-ui-framework-for-building-web-applications-logo-color-tal-revivo.png" alt="Microsoft Fabric"/>
+  <img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-microsoft-fabric-is-a-ui-framework-for-building-web-applications-logo-color-tal-revivo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.greglow.com%2F2023%2F05%2F24%2Fwelcome-microsoft-fabric-most-significant-change-in-microsoft-bi%2F&psig=AOvVaw2ItJIehD8ZG3S-p2XFnGP6&ust=1745353764260000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjS6Mz76YwDFQAAAAAdAAAAABAv)" alt="Microsoft Fabric"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
