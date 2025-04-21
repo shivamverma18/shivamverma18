@@ -17,11 +17,10 @@
 </p>
 
 ## 🌐 My Portfolio
-<p align="center">
+<p>
   <a href="https://codebasics.io/portfolio/Shivam-Verma" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio Icon"/>
     <br/>
-    <strong>View My Projects & Case Studies</strong>
+    <strong>View My Projects</strong>
   </a>
 </p>
 
