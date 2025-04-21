@@ -1,4 +1,4 @@
-
+## 👋Hi, Shivam here, A Data Analysts Aspirant
 ![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
 ## 💻 Tech Stack
