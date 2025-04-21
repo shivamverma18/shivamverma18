@@ -1,4 +1,6 @@
-## 🎥 A Glimpse into My Data Analyst Journey
+
+![Uploading data_analyst_intro.gif…]()
+
 <p align="center">
   <img src="C:\Users\win10\Downloads.gif" alt="Data Analyst Intro" width="480"/>   
 </p>
