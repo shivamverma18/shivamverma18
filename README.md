@@ -24,6 +24,9 @@
   <a href="https://instagram.com/shivamverma9808" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamverma9808" height="30" width="40" />
   </a>
+  <a href="https://codebasics.io/portfolio/Shivam-Verma" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
