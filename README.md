@@ -2,16 +2,16 @@
 ![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
 ## 💻 Tech Stack
-<p align="center">
+<p>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://github.com/shivamverma18/shivamverma18/raw/main/microsoft_fabric_logo.png" alt="Microsoft Fabric" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  
 </p>
 
 ## 🏆 GitHub Trophies
