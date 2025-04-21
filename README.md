@@ -1,9 +1,5 @@
 
-![Uploading data_analyst_intro.gif…]()
-
-<p align="center">
-  <img src="C:\Users\win10\Downloads.gif" alt="Data Analyst Intro" width="480"/>   
-</p>
+![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
