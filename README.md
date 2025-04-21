@@ -16,6 +16,15 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
 </p>
 
+## 🌐 My Portfolio
+<p align="center">
+  <a href="https://codebasics.io/portfolio/Shivam-Verma" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio Icon"/>
+    <br/>
+    <strong>View My Projects & Case Studies</strong>
+  </a>
+</p>
+
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/shivamverma9808" target="blank">
@@ -23,9 +32,6 @@
   </a>
   <a href="https://instagram.com/shivamverma9808" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamverma9808" height="30" width="40" />
-  </a>
-  <a href="https://codebasics.io/portfolio/Shivam-Verma" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
@@ -38,4 +44,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shivamverma18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
