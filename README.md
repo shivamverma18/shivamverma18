@@ -19,7 +19,6 @@
 ## 🌐 My Portfolio
 <p>
   <a href="https://codebasics.io/portfolio/Shivam-Verma" target="_blank">
-    <br/>
     <strong>View My Projects</strong>
   </a>
 </p>
