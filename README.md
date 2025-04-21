@@ -1,5 +1,5 @@
 
-![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
+   <p align="center"> ![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
