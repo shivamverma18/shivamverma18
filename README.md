@@ -1,11 +1,8 @@
 ## Hi there 👋 I am Shivam Verma
 
-🚀 *Software Developer | AI & ML Enthusiast | Full-Stack Developer*  
+🚀 *Data Analyst*  
 
-🔹 Passionate about *Machine Learning, Full-Stack Development, and Cloud Computing*  
-🔹 Strong foundation in *Python, C++, Java, and SQL*  
-🔹 Experienced in *TensorFlow, Keras, React, Node.js, Google Cloud, AWS*  
-🔹 Exploring *AI Research, Prompt Engineering, and Scalable Web Applications*  
+🎯 Turning raw data into meaningful insights is what drives me. From dashboards to databases, I love exploring data, uncovering trends, and creating visual stories that make an impact.  
 
 ![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
