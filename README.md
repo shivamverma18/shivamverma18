@@ -6,6 +6,9 @@
 
 ![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim.gif" alt="Data Analyst GIF" width="80%" />
+</p>
 
 ## 🛠 Tech Stack  
 
