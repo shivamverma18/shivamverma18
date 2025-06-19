@@ -79,11 +79,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-## 🏆 Achievements  
-
-
-- 🚀 *Best 
-- * 🚀 *Best 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma18&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ---
 
