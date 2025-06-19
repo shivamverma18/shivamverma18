@@ -79,9 +79,9 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shivamverma18&theme=juicyfresh&no-bg=true" />
+
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=shivamverma18&theme=juicyfresh&no-bg=true" />
+
 ## 📬 Get in Touch  
 - 📧 Email: shivamgverma99@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivamverma9808/)  
