@@ -4,7 +4,7 @@
 
 🎯 Turning raw data into meaningful insights is what drives me. From dashboards to databases, I love exploring data, uncovering trends, and creating visual stories that make an impact.  
 
-![data_analyst_intro](https://github.com/user-attachments/assets/9740855d-8589-4166-90a2-02ba18a16100)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Data Analyst Working" />
 
