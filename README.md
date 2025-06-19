@@ -81,7 +81,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivamverma18&theme=juicyfresh&no-bg=true" />
 ---
-
+<img src="https://github-profile-trophy.vercel.app/?username=shivamverma18&theme=juicyfresh&no-bg=true" />
 ## 📬 Get in Touch  
 - 📧 Email: shivamgverma99@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivamverma9808/)  
