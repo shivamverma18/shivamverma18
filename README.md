@@ -4,6 +4,9 @@
 
 🎯 Turning raw data into meaningful insights is what drives me. From dashboards to databases, I love exploring data, uncovering trends, and creating visual stories that make an impact.  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Hi+There!+I'm+Shivam+Verma;Data+Analyst+%7C+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Exploring+Data+%7C+Solving+Problems+%7C+Creating+Insights;Welcome+to+My+GitHub+Profile!+👋" alt="Typing SVG" />
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Data Analyst Working" />
